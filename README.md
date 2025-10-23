@@ -84,7 +84,7 @@ Ref 3: Memory Mapping Analysis to detect Malware
 
 
  <img width="419" height="363" alt="image" src="https://github.com/user-attachments/assets/90ca8d80-7fd1-494b-83d4-3846849dcc69" />
-
+ 
 Ref 4: Autopsy Timeline View
 
 5. Incident Reconstruction & Reporting
