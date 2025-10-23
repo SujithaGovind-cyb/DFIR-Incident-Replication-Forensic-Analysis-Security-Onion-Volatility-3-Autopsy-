@@ -50,7 +50,8 @@ The investigation followed a rigorous, multi-stage forensic process to reconstru
 - Used Kibana for detailed visualization of network flows, confirming data exfiltration attempts between the attacker and victim IPs (See Figure X.X - Kibana Network Flow Visualization).
 
 <img width="419" height="363" alt="image" src="https://github.com/user-attachments/assets/49b9e857-320d-4250-894d-18a7749dd704" />
-*Ref 1: Kibana Analysis*
+
+Ref 1: Kibana Analysis
 
 - Leveraged Cyberchef to decode and analyze HTTP traffic related to the SQL injection payload.
 
