@@ -49,9 +49,8 @@ The investigation followed a rigorous, multi-stage forensic process to reconstru
 
 - Used Kibana for detailed visualization of network flows, confirming data exfiltration attempts between the attacker and victim IPs (See Figure X.X - Kibana Network Flow Visualization).
 
-<img width="419" height="363" alt="image" src="https://github.com/user-attachments/assets/00823f73-82cb-4a63-af92-a3663f4cc5e5" />
-
-*Ref 1: Scope of the Plan*
+<img width="419" height="363" alt="image" src="https://github.com/user-attachments/assets/49b9e857-320d-4250-894d-18a7749dd704" />
+*Ref 1: Kibana Analysis*
 
 - Leveraged Cyberchef to decode and analyze HTTP traffic related to the SQL injection payload.
 
@@ -73,10 +72,18 @@ The investigation followed a rigorous, multi-stage forensic process to reconstru
 
 - Constructed a unified attack timeline using metadata, shell history logs, and file access times to chronologically map all post-exploitation actions (See Figure Y.Y - Autopsy Timeline View).
 
+ <img width="419" height="363" alt="image" src="https://github.com/user-attachments/assets/00823f73-82cb-4a63-af92-a3663f4cc5e5" />
+
+*Ref 1: Scope of the Plan*
+
 5. Incident Reconstruction & Reporting
 
 - Correlated findings across all three domains (Network, Memory, Disk) to produce a definitive Incident Reconstruction Report.
 
 - Mapped confirmed attacker actions, such as initial access and persistence, to the appropriate tactics and techniques within the MITRE ATT&CK framework (See Figure Z.Z - MITRE ATT&CK Mapping).
+
+<img width="419" height="363" alt="image" src="https://github.com/user-attachments/assets/00823f73-82cb-4a63-af92-a3663f4cc5e5" />
+
+*Ref 1: Scope of the Plan*
 
 - Concluded with recommendations for immediate mitigation steps and future security control hardening, prioritizing the identified vulnerabilities.
