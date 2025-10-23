@@ -47,7 +47,7 @@ The investigation followed a rigorous, multi-stage forensic process to reconstru
 
 - Successfully identified the initial payload transfer and analyzed C2 traffic patterns.
 
-- Used Kibana for detailed visualization of network flows, confirming data exfiltration attempts between the attacker and victim IPs (See Figure X.X - Kibana Network Flow Visualization).
+- Used Kibana for detailed visualization of network flows, confirming data exfiltration attempts between the attacker and victim IPs.
 
 
 <img width="419" height="363" alt="image" src="https://github.com/user-attachments/assets/49b9e857-320d-4250-894d-18a7749dd704" />
@@ -72,11 +72,12 @@ Ref 1: Kibana Analysis
 
 - Performed file system analysis to confirm user creation, file manipulation, and the successful execution of local password cracking tools (Hashcat).
 
-- Constructed a unified attack timeline using metadata, shell history logs, and file access times to chronologically map all post-exploitation actions (See Figure Y.Y - Autopsy Timeline View).
+- Constructed a unified attack timeline using metadata, shell history logs, and file access times to chronologically map all post-exploitation actions.
 
- <img width="419" height="363" alt="image" src="https://github.com/user-attachments/assets/00823f73-82cb-4a63-af92-a3663f4cc5e5" />
 
-*Ref 1: Scope of the Plan*
+ <img width="419" height="363" alt="image" src="https://github.com/user-attachments/assets/90ca8d80-7fd1-494b-83d4-3846849dcc69" />
+
+Ref 2: Autopsy Timeline View
 
 5. Incident Reconstruction & Reporting
 
@@ -86,6 +87,6 @@ Ref 1: Kibana Analysis
 
 <img width="419" height="363" alt="image" src="https://github.com/user-attachments/assets/00823f73-82cb-4a63-af92-a3663f4cc5e5" />
 
-*Ref 1: Scope of the Plan*
+Ref 3: Scope of the Plan
 
 - Concluded with recommendations for immediate mitigation steps and future security control hardening, prioritizing the identified vulnerabilities.
