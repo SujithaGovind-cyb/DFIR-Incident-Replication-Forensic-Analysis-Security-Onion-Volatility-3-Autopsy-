@@ -94,7 +94,3 @@ Ref 4: Autopsy Timeline View
 - Mapped confirmed attacker actions, such as initial access and persistence, to the appropriate tactics and techniques within the MITRE ATT&CK framework.
 
 - Concluded with recommendations for immediate mitigation steps and future security control hardening, prioritizing the identified vulnerabilities.
-
-
-
-Ref 4: Autopsy Timeline View
