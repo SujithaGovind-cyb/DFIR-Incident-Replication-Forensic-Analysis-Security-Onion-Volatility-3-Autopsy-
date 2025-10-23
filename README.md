@@ -1,7 +1,7 @@
 # DFIR-Incident-Replication-Forensic-Analysis
     DFIR investigation reconstructing a full attack lifecycle. Correlated network (Security Onion), memory (Volatility 3), and disk (Autopsy) artifacts to map adversary techniques to MITRE ATTACK and develop playbook-driven response strategies. This project simulates a realistic end-to-end cyber attack scenario, followed by a comprehensive Digital Forensics and Incident Response (DFIR) investigation to reconstruct the entire event. 
 
-The primary objective was to compromise a vulnerable machine, execute diverse post-exploitation activities (including privilege escalation, file manipulation, and SQL injection), and then perform a thorough forensic analysis on the network, memory, and hard disk artifacts. This investigation highlights the significance of continuous monitoring and proactive forensic analysis in identifying and mitigating modern cyber threats.
+        The primary objective was to compromise a vulnerable machine, execute diverse post-exploitation activities (including privilege escalation, file manipulation, and SQL injection), and then perform a thorough forensic analysis on the network, memory, and hard disk artifacts. This investigation highlights the significance of continuous monitoring and proactive forensic analysis in identifying and mitigating modern cyber threats.
 
 ### Skills Learned
 
