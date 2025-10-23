@@ -5,15 +5,20 @@ The primary objective was to compromise a vulnerable machine, execute diverse po
 
 ### Skills Learned
 
-- Digital Forensic Analysis: Mastery of memory (Volatility 3), network (Security Onion/Wireshark), and disk (Autopsy) forensic techniques.
+Digital Forensic Analysis
+- Mastery of memory (Volatility 3), network (Security Onion/Wireshark), and disk (Autopsy) forensic techniques.
 
-- Incident Response Lifecycle: Applied structured methodologies for evidence capture, analysis, and post-incident reporting.
+Incident Response Lifecycle
+- Applied structured methodologies for evidence capture, analysis, and post-incident reporting.
 
-- Threat Detection & Hunting: Used SIEM/IDS tools (Security Onion) for real-time traffic monitoring and anomaly detection, including mapping malicious activities to the MITRE ATT&CK framework.
+Threat Detection & Hunting
+- Used SIEM/IDS tools (Security Onion) for real-time traffic monitoring and anomaly detection, including mapping malicious activities to the MITRE ATT&CK framework.
 
-- Log Analysis & Visualization: Leveraged Kibana for detailed visualization and correlation of network logs, and Cyberchef for translating and refining data related to exploitation attempts (e.g., SQL injection).
+Log Analysis & Visualization
+- Leveraged Kibana for detailed visualization and correlation of network logs, and Cyberchef for translating and refining data related to exploitation attempts (e.g., SQL injection).
 
-- Ethical Exploitation: Replicated common attack vectors (e.g., ProFTPD, SQL Injection) to understand adversary behavior and improve defensive measures.
+Ethical Exploitation
+- Replicated common attack vectors (e.g., ProFTPD, SQL Injection) to understand adversary behavior and improve defensive measures.
 
 ### Tools Used
 
