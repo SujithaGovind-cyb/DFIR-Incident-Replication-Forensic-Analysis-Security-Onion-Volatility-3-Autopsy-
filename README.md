@@ -44,7 +44,7 @@ The investigation followed a rigorous, multi-stage forensic process to reconstru
 
 - Targeted vulnerabilities included ProFTPD exploit and application-level SQL injection to gain remote access.
 
-- Captured critical forensic artifacts—a memory dump and a complete hard disk image—immediately following post-exploitation activities to ensure data integrity.
+- Captured critical forensic artifacts a memory dump and a complete hard disk image immediately following post-exploitation activities to ensure data integrity.
 
 2. Network Forensic Analysis (Security Onion / Kibana)
 
